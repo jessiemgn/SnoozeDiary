@@ -1,0 +1,152 @@
+{"Sleep Tracker": [
+    {
+        "Sleep Time": 1,
+        "Sleep Quality": 4,
+        "Journal": "1",
+        "Awake Time": 4
+    },
+    {
+        "Sleep Time": 21,
+        "Sleep Quality": 4,
+        "Journal": "2",
+        "Awake Time": 7
+    },
+    {
+        "Sleep Time": 22,
+        "Sleep Quality": 4,
+        "Journal": "3",
+        "Awake Time": 5
+    },
+    {
+        "Sleep Time": 23,
+        "Sleep Quality": 4,
+        "Journal": "4",
+        "Awake Time": 9
+    },
+    {
+        "Sleep Time": 12,
+        "Sleep Quality": 4,
+        "Journal": "5",
+        "Awake Time": 7
+    },
+    {
+        "Sleep Time": 20,
+        "Sleep Quality": 4,
+        "Journal": "6",
+        "Awake Time": 2
+    },
+    {
+        "Sleep Time": 23,
+        "Sleep Quality": 4,
+        "Journal": "7",
+        "Awake Time": 2
+    },
+    {
+        "Sleep Time": 1,
+        "Sleep Quality": 4,
+        "Journal": "8",
+        "Awake Time": 4
+    },
+    {
+        "Sleep Time": 4,
+        "Sleep Quality": 4,
+        "Journal": "9",
+        "Awake Time": 8
+    },
+    {
+        "Sleep Time": 3,
+        "Sleep Quality": 4,
+        "Journal": "10",
+        "Awake Time": 7
+    },
+    {
+        "Sleep Time": 3,
+        "Sleep Quality": 4,
+        "Journal": "11",
+        "Awake Time": 12
+    },
+    {
+        "Sleep Time": 22,
+        "Sleep Quality": 4,
+        "Journal": "12",
+        "Awake Time": 4
+    },
+    {
+        "Sleep Time": 21,
+        "Sleep Quality": 4,
+        "Journal": "13",
+        "Awake Time": 6
+    },
+    {
+        "Sleep Time": 0,
+        "Sleep Quality": 4,
+        "Journal": "14",
+        "Awake Time": 8
+    },
+    {
+        "Sleep Time": 19,
+        "Sleep Quality": 4,
+        "Journal": "15",
+        "Awake Time": 2
+    },
+    {
+        "Sleep Time": 21,
+        "Sleep Quality": 4,
+        "Journal": "16",
+        "Awake Time": 3
+    },
+    {
+        "Sleep Time": 21,
+        "Sleep Quality": 4,
+        "Journal": "17",
+        "Awake Time": 3
+    },
+    {
+        "Sleep Time": 22,
+        "Sleep Quality": 4,
+        "Journal": "18",
+        "Awake Time": 6
+    },
+    {
+        "Sleep Time": 4,
+        "Sleep Quality": 4,
+        "Journal": "19",
+        "Awake Time": 8
+    },
+    {
+        "Sleep Time": 0,
+        "Sleep Quality": 4,
+        "Journal": "20",
+        "Awake Time": 3
+    },
+    {
+        "Sleep Time": 4,
+        "Sleep Quality": 4,
+        "Journal": "21",
+        "Awake Time": 4
+    },
+    {
+        "Sleep Time": 23,
+        "Sleep Quality": 4,
+        "Journal": "22",
+        "Awake Time": 7
+    },
+    {
+        "Sleep Time": 1,
+        "Sleep Quality": 2,
+        "Journal": "abc",
+        "Awake Time": 6
+    },
+    {
+        "Sleep Time": 2,
+        "Sleep Quality": 1,
+        "Journal": "1212",
+        "Awake Time": 6
+    },
+    {
+        "Sleep Time": 2,
+        "Sleep Quality": 1,
+        "Journal": "I turned in at 10:30 PM, finding solace in the soft glow of my bedside lamp. After a brief read, I switched off the lights, attempting to clear my mind for sleep. It took a while to shake off the day's thoughts, and a short meditation helped bring tranquility. I woke briefly around 1:00 AM, navigated a dream, and jotted down fragments. Despite the interruptions, I felt surprisingly rested when the 7:00 AM alarm marked the morning. Tomorrow, I'll focus on enhancing pre-sleep relaxation techniques for a more uninterrupted night.",
+        "Awake Time": 3
+    }
+]}

@@ -1,0 +1,14 @@
+{"Sleep Tracker": [
+    {
+        "Sleep Time": 19,
+        "Sleep Quality": 4,
+        "Journal": "Lorem",
+        "Awake Time": 15
+    },
+    {
+        "Sleep Time": 23,
+        "Sleep Quality": 3,
+        "Journal": "Ipsum",
+        "Awake Time": 7
+    }
+]}
